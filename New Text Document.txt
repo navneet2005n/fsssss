@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello
+=======
+hello world
+>>>>>>> fc6d4e1b67e92d165c5e51f4ec8bd389fb5d15ac
+africa savaaana
